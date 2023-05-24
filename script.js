@@ -33,10 +33,10 @@ function stop(){
 
 function reset(){
     timer = false
-    // hr = 0
-    // min =0
-    // sec =0
-    // count = 0
+    hr = 0
+    min =0
+    sec =0
+    count = 0
     document.getElementById("hr").innerHTML=0
     document.getElementById("min").innerHTML=0
     document.getElementById("sec").innerHTML=0
