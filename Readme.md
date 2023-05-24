@@ -8,9 +8,9 @@ Stop Watch is a JavaScript project that allows you to track time intervals with 
 
 The provided screenshots showcase the elegance and simplicity of the stop watch interface. The design features a clean and modern layout, making it visually appealing and easy to read.
 
-![Javatpoint](./assests/Screenshot%202023-05-24%20152527.png)
+![image](./assests/Screenshot%202023-05-24%20152527.png)
 
-![Javatpoint](./assests/Screenshot%202023-05-24%20152556.png)
+![image](./assests/Screenshot%202023-05-24%20152556.png)
 
 
 ## Functioning
