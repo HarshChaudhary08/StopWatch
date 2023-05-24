@@ -68,7 +68,7 @@ document.getElementById("min").innerHTML = min
 document.getElementById("hr").innerHTML = hr
 document.getElementById("count").innerHTML = count
 
-    setTimeout("stopWatch()",1)
+    setTimeout("stopWatch()",10)
 }
 
 }
